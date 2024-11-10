@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "2d974b07257e7e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "52066325ee4e36b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10668b34ba47420a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tips/“该磁盘有写保护”的解决方案.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "512e9ddfb0a997e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "05cd9b1f582dfe0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e7a1b64e227695",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e8b1feba9bff153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64180e4b96ad547f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "610a55bf42f0e531",
+    "type": "split",
+    "children": [
+      {
+        "id": "7019d99689cbdb39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "470c89730134cf4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b253f52d62ccfda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tips/“该磁盘有写保护”的解决方案.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7240fd036143814b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tips/“该磁盘有写保护”的解决方案.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee66575c19dd3305",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tips/“该磁盘有写保护”的解决方案.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "10668b34ba47420a",
+  "lastOpenFiles": [
+    "操作系统学习/kali/kali工具.md",
+    "操作系统学习/kali/基本操作.md",
+    "操作系统学习/centos/基础配置.md",
+    "操作系统学习/kylin desktop.md",
+    "计算机网络/WLAN.md",
+    "note/数通/数通.md",
+    "计算机网络/picture/Pasted image 20240911212339.png",
+    "计算机网络/picture/Pasted image 20240911211315.png",
+    "tips/“该磁盘有写保护”的解决方案.md",
+    "网络服务学习/Linux/vsftp文件传输协议.md",
+    "网络服务学习/Windows server/解决克隆windowsSID一致.md",
+    "计算机网络/STP、RSTP、MSTP.md",
+    "计算机网络/picture/Pasted image 20240701163315.png",
+    "计算机网络/picture/Pasted image 20240701162634.png",
+    "计算机网络/picture/Pasted image 20240701162951.png",
+    "计算机网络/picture/Pasted image 20240701162624.png",
+    "计算机网络/picture/Pasted image 20240701161405.png",
+    "计算机网络/picture/Pasted image 20240701161343.png",
+    "计算机网络/picture/Pasted image 20240701161301.png",
+    "计算机网络/picture/Pasted image 20240701161259.png",
+    "网络服务学习/Linux/DNS域名解析系统.md",
+    "计算机网络/Port-group.md",
+    "计算机网络/IPV6.md",
+    "网络安全/CTF/实验集.md",
+    "计算机网络/DHCP.md",
+    "计算机网络/VPN.md",
+    "计算机网络/VRRP、HSRP.md",
+    "网络服务学习/Linux/http超文本传输协议.md",
+    "网络服务学习/Linux/Firewall防火墙.md",
+    "网络服务学习/Windows server/picture",
+    "网络服务学习/Linux",
+    "网络服务学习/Windows server",
+    "网络服务学习/Linux/mariadb数据库.md",
+    "网络服务学习/Linux/ISCSI网络存储集群服务器.md",
+    "喜识/信息收集.md",
+    "使用指南个人总结/使用指南.md",
+    "计算机网络/picture",
+    "计算机网络",
+    "网络安全/小迪.md",
+    "网络服务学习/Linux/picture",
+    "网络服务学习",
+    "tips",
+    "喜识",
+    "网络安全/CTF/picture",
+    "操作系统学习/centos/永久关闭selinux方法.md",
+    "未命名.canvas"
+  ]
+}

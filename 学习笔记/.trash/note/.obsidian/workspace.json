@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "64547c1ad754a692",
+    "type": "split",
+    "children": [
+      {
+        "id": "6faf3bb7c1e387d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f37a879cc810b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科技/通过zerotier工具内网穿透.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59cf1b5c41c9da0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7deaf3db1938b3ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb427880d6862d55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfed9ad0f14d21d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff1f45e63bf83202",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "154be6b9b85e0f03",
+    "type": "split",
+    "children": [
+      {
+        "id": "66c66aa366a900dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e4cb30a2f1bbed4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "科技/通过zerotier工具内网穿透.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b69099cd82bf6d64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "科技/通过zerotier工具内网穿透.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f97f8f15f3ddd495",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50459daeb1662d55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "科技/通过zerotier工具内网穿透.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "47f37a879cc810b8",
+  "lastOpenFiles": [
+    "数通/WLAN.md",
+    "Pasted image 20240911212339.png",
+    "Pasted image 20240911211315.png",
+    "未命名.md",
+    "数通/数通.md",
+    "无线网.md",
+    "数通",
+    "WLAN",
+    "科技/通过zerotier工具内网穿透.md",
+    "科技/Pasted image 20240808210235.png",
+    "科技/Pasted image 20240808210147.png",
+    "科技/Pasted image 20240808205722.png",
+    "科技"
+  ]
+}

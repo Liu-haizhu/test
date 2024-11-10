@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "./picture",
+  "trashOption": "local",
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "focusNewTab": true
+}
